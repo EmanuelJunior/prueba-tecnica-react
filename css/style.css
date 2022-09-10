@@ -1,0 +1,21 @@
+* {
+  font-family: Lato;
+}
+
+body {
+  padding: 0 50px;
+  background-color: #222;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  font-weight: bold;
+  color: #ccc;
+  text-shadow: 0 0 15px #ccc, 0 0 10px #aaa;
+}
