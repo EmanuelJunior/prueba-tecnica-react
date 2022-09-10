@@ -43,7 +43,7 @@ export default function App() {
     <div className="container">
       <img
         src={imgGiphy || defaultImg}
-        title="img-api"
+        title="img-api-giphy"
         width="400"
         height="300"
       />

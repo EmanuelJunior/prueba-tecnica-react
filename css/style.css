@@ -19,3 +19,9 @@ h1 {
   color: #ccc;
   text-shadow: 0 0 15px #ccc, 0 0 10px #aaa;
 }
+
+img {
+  box-shadow: 0 0 15px #ccc;
+  border-radius: 10px;
+  margin-right: 30px;
+}
